@@ -21,6 +21,14 @@
 		{
 				"type": "composer",
 				"url": "https://asset-packagist.org"
+		},
+		{
+				"type": "vcs",
+				"url": "https://github.com/hatuhay/react.git"
+		},
+		{
+				"type": "vcs",
+				"url": "https://github.com/hatuhay/nomination-theme.git"
 		}
 	],
 	"scripts": {
