@@ -124,7 +124,10 @@
 		"drupal/viewsreference": "^1.4",
 		"drupal/webform": "^5.13",
 		"drupal/webform_rest": "^2.0",
-		"drush/drush": "^10.0"
+		"drush/drush": "^10.0",
+		"hatuhay/bootstrap_default": "dev-master",
+		"hatuhay/nomination_theme": "dev-master",
+		"hatuhay/react": "dev-master"
 	},
 	"require-dev": {
 		"drupal/core-dev": "^8.8"
