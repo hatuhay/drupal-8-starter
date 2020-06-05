@@ -15,20 +15,24 @@
 	},
 	"repositories": [
 		{
-				"type": "composer",
-				"url": "https://packages.drupal.org/8"
+			"type": "composer",
+			"url": "https://packages.drupal.org/8"
 		},
 		{
-				"type": "composer",
-				"url": "https://asset-packagist.org"
+			"type": "composer",
+			"url": "https://asset-packagist.org"
 		},
 		{
-				"type": "vcs",
-				"url": "https://github.com/hatuhay/react.git"
+			"type": "vcs",
+			"url": "https://github.com/hatuhay/react.git"
 		},
 		{
-				"type": "vcs",
-				"url": "https://github.com/hatuhay/nomination-theme.git"
+			"type": "vcs",
+			"url": "https://github.com/hatuhay/nomination-theme.git"
+		},
+				{
+			"type": "vcs",
+			"url": "https://github.com/hatuhay/bootstrap_default.git"
 		}
 	],
 	"scripts": {
