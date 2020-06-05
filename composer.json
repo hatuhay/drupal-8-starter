@@ -69,15 +69,6 @@
 			"drush/Commands/contrib/{$name}": ["type:drupal-drush"],
 			"web/modules/custom/{$name}": ["type:drupal-custom-module"],
 			"web/themes/custom/{$name}": ["type:drupal-custom-theme"]
-		},
-		"patches": {
-			"drupal/feeds": {
-				"Importing users with password": "https://www.drupal.org/files/issues/importing_users_with_passwords-2950836-5.patch",
-				"Add a role mapping target": "https://www.drupal.org/files/issues/2019-10-24/feeds-config-entityreference-2933361-12.patch"
-			},
-			"drupal/migrate_source_ui": {
-				"Allow spreadsheet migrate sources": "https://www.drupal.org/files/issues/2020-04-30/spreadsheet-source-3132559-1.patch"
-			}
 		}
 	},
 	"require": {
